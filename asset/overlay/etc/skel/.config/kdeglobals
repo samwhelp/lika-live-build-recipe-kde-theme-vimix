@@ -15,7 +15,7 @@ Theme=Citrus-red-dark
 LookAndFeelPackage=com.github.vinceliuice.Vimix-Dark-Ruby
 ShowDeleteCommand=true
 SingleClick=false
-widgetStyle=kvantum-dark
+widgetStyle=kvantum
 
 [WM]
 activeBackground=49,54,59
